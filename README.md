@@ -2,7 +2,7 @@
 ![Profile Views](https://gpvc.arturio.dev/filmspotersadmin)
 # My Social Profiles
 <p align="center">
-<a href="https://t.me/filmspotersadmin"><img alt="Telegram" src="https://img.shields.io/badge/Filmspoter-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/filmspoteradmin"><img alt="Telegram" src="https://img.shields.io/badge/Filmspoter-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 <p align="center">
