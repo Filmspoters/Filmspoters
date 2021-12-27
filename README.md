@@ -6,5 +6,5 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=&theme=highcontrast" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Filmspoters&theme" align="center">
 </p>
